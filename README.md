@@ -31,31 +31,31 @@ CloudPad is a simple, lightweight fully customizable text editor created using P
    cd Cloudpad
 2. Run the application
      python CloudPad.py
-   
-###Creating an Executable
+
+## Creating an Executable
   To create an executable file (for Windows), you can use py2exe or PyInstaller. Below are the instructions for using PyInstaller.
   1. Install PyInstaller:
       pip install pyinstaller
   2. Create the executable:
       pyinstaller --onefile --noconsole --add-data "cloudpad.ico;." CloudPad.py
   3. The executable will be created in the dist folder.   
-###Usage
+## Usage
 Open CloudPad by running CloudPad.py or the generated executable.
 Use the File menu to open or save text files.
 Use the Edit menu for basic text editing operations.
 
-##Icon Not Found Error
+## Icon Not Found Error
   If you encounter an error related to the icon file (cloudpad.ico), ensure that:
     The icon file is present in the same directory as CloudPad.py.
     The path to the icon file is correctly referenced in the code.
   
-###Antivirus Issues
+## Antivirus Issues
   If the executable is flagged by antivirus software, consider:
     Adding an exception in your antivirus software for the executable or the containing folder.
     Signing the executable with a trusted certificate.
     
-###Contributing
+## Contributing
   If you'd like to contribute to CloudPad, please fork the repository and submit a pull request. Issues and feature requests can be reported in the GitHub Issues section.
 
-###License
+## License
   This project is licensed under the © Karlos License. See the LICENSE file for more details.
