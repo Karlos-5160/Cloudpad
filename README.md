@@ -39,7 +39,7 @@ CloudPad is a simple, lightweight fully customizable text editor created using P
   2. Create the executable:
       pyinstaller --onefile --noconsole --add-data "cloudpad.ico;." CloudPad.py
   3. The executable will be created in the dist folder.   
-## Usage
+### Usage
 Open CloudPad by running CloudPad.py or the generated executable. <br>
 Use the File menu to open or save text files.  <br>
 Use the Edit menu for basic text editing operations.  
