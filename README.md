@@ -41,18 +41,23 @@ CloudPad is a simple, lightweight fully customizable text editor created using P
   3. The executable will be created in the dist folder.   
 ### Usage
 Open CloudPad by running CloudPad.py or the generated executable. <br>
-Use the File menu to open or save text files.  <br>
-Use the Edit menu for basic text editing operations.  
+• Use the File menu to open or save text files.  <br>
+• Use the Edit menu for basic text editing operations.
+• Use the View menu to zoom in/ zoom out and toggle status bar
+• Use the Font menu to customize font(style,size,color)
+• Use the BG menu to change background color of the window
+• Use the Theme menu to change the theme, there are many innovative inbuilt themes available
+• USe the Help menu to get help and get about info
 
 ### Icon Not Found Error
   If you encounter an error related to the icon file (cloudpad.ico), ensure that:  <br>
-    The icon file is present in the same directory as CloudPad.py.  <br>
-    The path to the icon file is correctly referenced in the code.
+    -The icon file is present in the same directory as CloudPad.py.  <br>
+    -The path to the icon file is correctly referenced in the code.
   
 ## Antivirus Issues
   If the executable is flagged by antivirus software, consider:  <br>
-    Adding an exception in your antivirus software for the executable or the containing folder.  <br>
-    Signing the executable with a trusted certificate.
+    -Adding an exception in your antivirus software for the executable or the containing folder.  <br>
+    -Signing the executable with a trusted certificate.
     
 ## Contributing
   If you'd like to contribute to CloudPad, please fork the repository and submit a pull request. Issues and feature requests can be reported in the GitHub Issues section.
