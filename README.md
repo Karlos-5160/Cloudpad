@@ -44,7 +44,7 @@ Open CloudPad by running CloudPad.py or the generated executable. <br>
 Use the File menu to open or save text files.  <br>
 Use the Edit menu for basic text editing operations.  
 
-## Icon Not Found Error
+### Icon Not Found Error
   If you encounter an error related to the icon file (cloudpad.ico), ensure that:  <br>
     The icon file is present in the same directory as CloudPad.py.  <br>
     The path to the icon file is correctly referenced in the code.
