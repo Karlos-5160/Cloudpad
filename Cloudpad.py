@@ -1,4 +1,3 @@
-from guizero import *
 from tkinter import *
 import tkinter.messagebox as tmsg
 import tkinter as tk
