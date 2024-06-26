@@ -1,5 +1,5 @@
 # Cloudpad
-Your own fully customizable Text Editor now say bye bye to that old vintage style Notepad <br>
+Your own fully customizable Text Editor, now say bye bye to that old vintage style Notepad <br>
 CloudPad is a simple, lightweight fully customizable text editor created using Python and Tkinter. It serves as an alternative to Notepad, providing text editing functionalities in a user-friendly interface.
 
 ## Features
